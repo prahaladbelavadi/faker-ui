@@ -1,4 +1,11 @@
-.App {
+@import "primeflex/primeflex.css";
+/* @import "primereact/resources/themes/lara-light-cyan/theme.css";
+@import "primereact/resources/themes/arya-purple/theme.css";
+@import "primereact/resources/themes/luna-green/theme.css"; */
+@import "primereact/resources/themes/lara-dark-teal/theme.css";
+
+
+ /* .App {
   text-align: center;
 }
 
@@ -35,4 +42,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
